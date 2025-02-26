@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+D:\ci\oop\2.2.2\ConsoleApplication1\ConsoleApplication1.cpp(64,26): error C2664: "Linear::Linear(double,double)": невозможно преобразовать аргумент 1 из "Linear" в "double"
+D:\ci\oop\2.2.2\ConsoleApplication1\ConsoleApplication1.cpp(64,22): message : Для выполнения данного преобразования нет доступного оператора преобразования, определенного пользователем, или вызов оператора невозможен
+D:\ci\oop\2.2.2\ConsoleApplication1\ConsoleApplication1.cpp(17,5): message : см. объявление "Linear::Linear"

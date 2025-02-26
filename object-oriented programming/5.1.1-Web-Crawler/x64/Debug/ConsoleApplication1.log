@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+D:\ci\oop\5.1.1\ConsoleApplication1\ConsoleApplication1.cpp(83,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\oop\5.1.1\ConsoleApplication1\ConsoleApplication1.cpp(92,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\oop\5.1.1\ConsoleApplication1\ConsoleApplication1.cpp(186,34): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\oop\5.1.1\ConsoleApplication1\ConsoleApplication1.cpp(197,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\oop\5.1.1\ConsoleApplication1\ConsoleApplication1.cpp(239,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\ci\oop\5.1.1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

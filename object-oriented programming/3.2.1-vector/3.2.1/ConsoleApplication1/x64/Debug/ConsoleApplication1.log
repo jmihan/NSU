@@ -1,0 +1,22 @@
+﻿  ConsoleApplication1.cpp
+D:\ci\oop\3.2.1\ConsoleApplication1\ConsoleApplication1.cpp(123,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\ci\oop\3.2.1\ConsoleApplication1\ConsoleApplication1.cpp(119): message : во время компиляции функции-члена класс шаблон "void vector<T>::shiftL1(void)"
+          with
+          [
+              T=std::string
+          ]
+D:\ci\oop\3.2.1\ConsoleApplication1\ConsoleApplication1.cpp(135): message : выполняется компиляция ссылки на экземпляр шаблон функции "void vector<T>::shiftL1(void)"
+          with
+          [
+              T=std::string
+          ]
+D:\ci\oop\3.2.1\ConsoleApplication1\ConsoleApplication1.cpp(160): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "vector<T>"
+          with
+          [
+              T=std::string
+          ]
+D:\ci\oop\3.2.1\ConsoleApplication1\ConsoleApplication1.cpp(223): message : выполняется компиляция ссылки на экземпляр шаблон функции "void start<std::string>(int)"
+D:\ci\oop\3.2.1\ConsoleApplication1\ConsoleApplication1.cpp(79): warning C4715: vector<int>::operator[]: значение возвращается не при всех путях выполнения
+D:\ci\oop\3.2.1\ConsoleApplication1\ConsoleApplication1.cpp(79): warning C4715: vector<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::operator[]: значение возвращается не при всех путях выполнения
+D:\ci\oop\3.2.1\ConsoleApplication1\ConsoleApplication1.cpp(79): warning C4715: vector<double>::operator[]: значение возвращается не при всех путях выполнения
+  ConsoleApplication1.vcxproj -> D:\ci\oop\3.2.1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
