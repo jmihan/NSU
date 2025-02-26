@@ -1,2 +1,2 @@
 # NSU
- Novosibirsk state university labs
+ Novosibirsk state university labs 2021-2023
